@@ -1,0 +1,247 @@
+.upper_section{
+	width: 100%;
+	float: left;
+	background-image: url(../images/banner.png);
+	height: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-size:cover;
+	background-size: 100%;
+    background-repeat: no-repeat;
+}
+.power_full{
+	width: 100%;
+	float: left;
+	background-color: #ffffff;
+	border-radius: 30px;
+	padding: 20px;
+	box-shadow: 0px 0px 8px 0px;
+}
+
+.power{
+	width: 100%;
+	float: left;
+	background-color: #ffffff;
+	border-radius: 30px;
+	padding: 20px;
+    box-shadow: 0px 0px 8px 0px;
+
+
+}
+.icon{
+	text-align: center;
+	margin-top: 40px;
+    size: 10px;
+}
+.powerful_text{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 20px;	
+	color: #ffffff;
+
+}
+
+.totaly_text{
+		width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 20px;	
+	color: #000;
+
+
+}
+
+.making_tetx{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 20px;	
+	color: #ffffff;
+	margin-left: 0;
+
+}
+
+.making{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 20px;	
+	color: #000;
+	margin-left: 0;
+
+}
+.about_main{ 
+	width: 100%;
+	float: left;
+	background-color: #2ba879;
+    height: 700px; 
+	margin-top: 70px; 
+	margin-bottom: 20px;
+	position: relative;
+ }
+
+.about_main:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 110px;
+    background-image: url(../images/about-top-bg.png);
+    z-index: 1;
+    background-size: 100%;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+.about_main:after {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 110px;
+    background-image: url(../images/about-bottom-bg.png);
+    z-index: 1;
+    background-size: 100%;
+    background-position: bottom center;
+    background-repeat: no-repeat;
+}
+
+
+
+.pickups{
+    width: 100%;
+	float: left;
+	background-image: url(../images/contact-bg.png);
+	height: auto;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-size: cover;
+	margin-top: 65px;
+	z-index: 5;
+    position: relative
+}
+
+#display_image{
+    width: 250px;
+    height: 200px;
+    border: 2px solid black;
+    background-position: center;
+    background-size: cover;
+    }
+
+.right_section_main{
+	width: 100%;
+	float: left;
+	background-color: white;
+    padding: 12px 40px 20px 40px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.about_inner{
+	width: 100%;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;	
+	background-color: #ffffff;
+	border-radius: 20px;
+    border: 2px solid #55b994;
+}
+.section_right{
+	width: 100%;
+	float: left;
+	margin-top: 15px;
+}
+
+.input_main {
+    width: 100%;
+    float: left;
+    background-color: #ffffff;
+    padding: 40px 20px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+.email-bt {
+    background: #ececec;
+    border: none;
+    color: #000;
+    width: 100%;
+    height: 55px;
+    font-size: 22px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 6px;
+}
+
+.massage-bt {
+    background: #ececec;
+    border: none;
+    color: #000;
+    width: 100%;
+    height: 145px;
+    font-size: 22px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 6px;
+}
+button.main_bt {
+    background: #ce4109;
+    border: none;
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 22px;
+}
+
+button.main_bt a:hover {
+	color: #ffffff;
+}
+
+.send_btn{
+	width: 30%;
+	margin: 0 auto;
+	text-align: center;
+}
+.contact_section_3{
+	width: 100%;
+	float: left;
+	
+	padding-bottom: 30px;	
+	padding-top: 30px;
+    margin-top: -80px;}
+
+.contact_taital{
+	width: 100%;
+	float: left;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-top: 100px;
+}
+
+.web{
+	background-color: #ffffff;
+	border-radius: 30px;
+	height: auto;
+	padding-top: 20px;	
+	padding-bottom: 20px;
+}
+
+.londan_text{ padding-left: 20px;}
+.map_main{
+	width: 100%;
+	float: left;
+	font-size: 17px;
+	color: #afafaf;
+	padding-left: 17px;
+	text-align: center;
+}
+
+.contact_product{
+	width: 100%;
+	float: left;
+	padding-bottom: 20px;
+	padding-top: 65px;
+}
