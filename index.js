@@ -4,8 +4,7 @@ const cors = require("cors");
 const Pickup = require("./Model/Pickup");
 const User = require("./Model/User");
 const Employee = require("./Model/Employee");
-var id="AC70725e04596e0dc65cfbc35d881b8f48"
-var token = "4603043ceb4108cd679d1a37a0203f45"
+
 
 
 var twilio = require('twilio')(id,token);
